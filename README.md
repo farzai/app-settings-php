@@ -1,8 +1,8 @@
 # PHP App setting
 
-[![Latest Version on Packagist](https://img.shields.io/packagist/v/farzai/app-settings-php.svg?style=flat-square)](https://packagist.org/packages/farzai/app-settings-php)
+[![Latest Version on Packagist](https://img.shields.io/packagist/v/farzai/app-settings.svg?style=flat-square)](https://packagist.org/packages/farzai/app-settings-php)
 [![Tests](https://img.shields.io/github/actions/workflow/status/farzai/app-settings-php/run-tests.yml?branch=main&label=tests&style=flat-square)](https://github.com/farzai/app-settings-php/actions/workflows/run-tests.yml)
-[![Total Downloads](https://img.shields.io/packagist/dt/farzai/app-settings-php.svg?style=flat-square)](https://packagist.org/packages/farzai/app-settings-php)
+[![Total Downloads](https://img.shields.io/packagist/dt/farzai/app-settings.svg?style=flat-square)](https://packagist.org/packages/farzai/app-settings-php)
 
 This open-source library provides a powerful and flexible way to manage application settings or configurations. It is designed with the principle of simplicity and adaptability, allowing developers to quickly set up and manage configurations in any PHP project.
 
